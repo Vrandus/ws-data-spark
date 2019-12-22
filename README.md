@@ -20,6 +20,6 @@ navigate to `/tmp/data` in docker VM
 Run the spark jobs using `spark-submit`
 eg:  `spark-submit cleanUp.py`
 
-run problem 4 (`pipeline.py`) using `python pipeline.py` as since wasn't required 
+run problem 4 (`pipeline.py`) using `python pipeline.py` as spark wasn't required 
 
 run the commands in the order the problems were given
