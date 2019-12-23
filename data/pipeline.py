@@ -53,7 +53,7 @@ def topologicalSort(graph, vertices):
 print(topologicalSort(tasks, vertices))
 # def shortestPath(graph, src, goal):
 # solution requires a modification of bellman-ford's algorithm, 
-# inputting a sub list from the initial to the goal task
+# inputting a sub list from the initial to the goal task of the topological sort
 # and building the shortest path to there.
 
 # Can also be done with a modified DFS to end when reaching the goal task
